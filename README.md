@@ -9,4 +9,4 @@ INSTRUCTIONS:
 4. docker compose down		
 5. cd local-fn				
 6. sam local invoke HelloWorldFunction 
-7. cd . .
+7. cd ..
